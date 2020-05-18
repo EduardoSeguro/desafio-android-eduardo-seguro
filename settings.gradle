@@ -1,0 +1,2 @@
+rootProject.name='desafio-android-eduardo-seguro'
+include ':app'
